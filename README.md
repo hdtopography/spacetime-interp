@@ -6,7 +6,7 @@ This is a minimal GDAL/NumPy/SciPy implementation of the method in:
 
 > Hayakawa, Y.S.; Wang, L. Spatiotemporal interpolation of topographic changes from terrestrial LIDAR observations: a controlled experiment with rolling objects on a slope. *Remote Sensing* (under review; reference and DOI to be updated).
 
-The original implementation was a Windows GUI tool (C#, ArcObjects) developed by Wang Luyao as part of her master's research (Hokkaido University, 2023). This repository re-implements the method without any proprietary dependency.
+The original implementation was a Windows GUI tool (C#, ArcObjects) developed by Wang Luyao as part of his master's research (Hokkaido University, 2023). This repository re-implements the method without any proprietary dependency.
 
 ## Method
 
